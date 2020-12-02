@@ -1,1 +1,1 @@
-# apertium-bum
+README

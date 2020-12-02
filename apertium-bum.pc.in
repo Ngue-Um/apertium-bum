@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-bum
+
+Name: apertium-bum
+Description: Finite-state morphological transducer and constraint grammar for Bulu
+Version: @VERSION@
+
